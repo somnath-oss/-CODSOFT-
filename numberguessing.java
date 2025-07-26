@@ -9,12 +9,12 @@ public class numberguessing {
         int score = 0;
         String playagain;
 
-        System.out.println(" Welcome to the Number Guessing Game!");
+        System.out.println("\n Welcome to the Number Guessing Game!");
 
         do {
             // 1. Difficulty Selection
 
-            System.out.println("Select difficulty level:");
+            System.out.println("\n Select difficulty level:");
             System.out.println("1. Easy (1-50)\n2. Medium (1-100)\n3. Hard (1-200)");
             int difficulty = scan.nextInt();
             int upperLimit;
