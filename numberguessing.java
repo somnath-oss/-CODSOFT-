@@ -1,4 +1,3 @@
-package codesoft;
 import java.util.Scanner;
 import java.util.Random;
 
